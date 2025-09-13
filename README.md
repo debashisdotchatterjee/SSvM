@@ -1,4 +1,4 @@
-# SSvM (Simulation)
+# SSvM (Simulation & Real Data Analysis)
 
 complete, self-contained R script for your Simulation Study section. It:
 
